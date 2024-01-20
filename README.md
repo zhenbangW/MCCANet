@@ -1,7 +1,8 @@
 ## MCCANet: A Multispectral Class-Constraint Attentional Neural Network for Object Detection in Mining Scenes
 ---
 
-
+## Code update in progress
+Code updates and improvements are in progress, please stay tuned.
 
 ### 1、Environment
 torch==1.2.0   
